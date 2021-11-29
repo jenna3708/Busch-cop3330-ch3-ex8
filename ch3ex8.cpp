@@ -1,7 +1,7 @@
-/*
- *  UCF COP3330 Assignment 5 Solution
- *  Copyright 2021 Jenna Busch
- */
+
+ //  UCF COP3330 Assignment 5 Solution
+ //  Copyright 2021 Jenna Busch
+
 
 #include <iostream>
 using namespace std;
